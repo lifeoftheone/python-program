@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="113ede1c-cf07-455b-bc33-094c5ffb29ac" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SEbkJhlmkxnHLLIIPVDtrMnfGz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pallandrom">
+    <configuration name="install" type="PythonConfigurationType" factoryName="Python">
+      <module name="New folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/pip/_internal/commands" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/pip/_internal/commands/install.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matrix and its transpose" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="New folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix and its transpose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql connection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql connection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pallandrom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="New folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pallandrom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="star print" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="New folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/star print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="New folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.install" />
+      <item itemvalue="Python.mysql connection" />
+      <item itemvalue="Python.matrix and its transpose" />
+      <item itemvalue="Python.star print" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.pallandrom" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pallandrom" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.star print" />
+        <item itemvalue="Python.matrix and its transpose" />
+        <item itemvalue="Python.mysql connection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113ede1c-cf07-455b-bc33-094c5ffb29ac" name="Default Changelist" comment="" />
+      <created>1571131843890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571131843890</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1344" height="231" key="GridCell.Tab.0.bottom" timestamp="1583526551572">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583526551572" />
+    <state width="1344" height="231" key="GridCell.Tab.0.center" timestamp="1583526551571">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583526551571" />
+    <state width="1344" height="231" key="GridCell.Tab.0.left" timestamp="1583526551571">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583526551571" />
+    <state width="1344" height="231" key="GridCell.Tab.0.right" timestamp="1583526551571">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583526551571" />
+    <state width="1344" height="231" key="GridCell.Tab.1.bottom" timestamp="1583526551583">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583526551583" />
+    <state width="1344" height="231" key="GridCell.Tab.1.center" timestamp="1583526551572">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583526551572" />
+    <state width="1344" height="231" key="GridCell.Tab.1.left" timestamp="1583526551572">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583526551572" />
+    <state width="1344" height="231" key="GridCell.Tab.1.right" timestamp="1583526551573">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="231" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583526551573" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1583900431278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1583900431278" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1583899587181">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583899587181" />
+    <state x="481" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583517411817">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="481" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1583517411817" />
+  </component>
+</project>

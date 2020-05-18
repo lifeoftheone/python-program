@@ -1,0 +1,38 @@
+jan=int(input("enter revenue of january"))
+feb=int(input("enter revenue of febrary"))
+mar=int(input("enter revenue of march"))
+apr=int(input("enter revenue of april"))
+may=int(input("enter revenue of may"))
+jun=int(input("enter revenue of june"))
+jul=int(input("enter revenue of luly"))
+aug=int(input("enter revenue of august"))
+sep=int(input("enter revenue of september"))
+oct=int(input("enter revenue of october"))
+nov=int(input("enter revenue of november"))
+dec=int(input("enter revenue of december"))
+quater1=[]
+quater2=[]
+quater3=[]
+quater4=[]
+quater1.append(jan)
+quater1.append(feb)
+quater1.append(mar)
+quater2.append(apr)
+quater2.append(may)
+quater2.append(jun)
+quater3.append(jul)
+quater3.append(aug)
+quater3.append(sep)
+quater4.append(oct)
+quater4.append(nov)
+quater4.append(dec)
+import functools
+
+sum1=functools.reduce(lambda x,y:x+y, quater1)
+sum2=functools.reduce(lambda x,y:x+y, quater2)
+sum3=functools.reduce(lambda x,y:x+y, quater3)
+sum4=functools.reduce(lambda x,y:x+y, quater4)
+print("revenue of first quater " , sum1)
+print("revenue of second quater " , sum2)
+print("revenue of third quater " , sum3)
+print("revenue of forth quater " , sum4)
